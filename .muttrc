@@ -1,0 +1,19 @@
+set ssl_force_tls = yes
+set abort_nosubject = no
+set mail_check = 60
+set timeout = 10
+set sort = "reverse-date-received"
+# set signature = "~/.mutt/signature"
+set copy = no
+set from = "AmmoTracker@yourserver.com"
+set realname = "AmmoTracker"
+
+# Imap settings
+set imap_user = "user@emailserver.com"
+set imap_pass = "pa55wo0rd"
+
+# Smtp settings
+set smtp_url = "smtps://"user@emailserver.com"@yoursmtpserveraddresshere.com:465"
+set smtp_pass = "pa55wo0rd"
+
+
