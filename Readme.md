@@ -1,4 +1,4 @@
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/eJ0RSMGmUdg)
+[![Alt text](https://img.youtube.com/vi/eJ0RSMGmUdg/0.jpg)](https://www.youtube.com/watch?v=eJ0RSMGmUdg)
 
 here is my primer checking script it basicly curls sites looking for in stock status and then greps the results and sets up
 an email to alert people.
