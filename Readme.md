@@ -1,7 +1,9 @@
 [![Alt text](https://img.youtube.com/vi/eJ0RSMGmUdg/0.jpg)](https://www.youtube.com/watch?v=eJ0RSMGmUdg)
 
-here is my primer checking script it basicly curls sites looking for in stock status and then greps the results and sets up
+here is my primer checking script it curls sites looking for in stock status and then greps the results and sets up
 an email to alert people.
+
+requires any linux based server or windows linux shell enviroment.
 
 you need to install mutt and use the config file as an example for its config.
 you then enter emails in the contacts.txt file for it to send to. 
